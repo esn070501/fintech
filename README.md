@@ -1,7 +1,7 @@
-Introduction
+# Introduction
 EventEats aims to enhance the event experience by reducing wait times for food and beverages through a mobile app that allows attendees to request and fulfill orders within the event venue. This repository includes files that simulate the backend of the final product and test the user interface.
 
-Files
+# Files
 This repository contains the following key files:
 
 fake_data.ipynb: A Jupyter notebook that creates synthetic data to simulate the backend of the final product. It is used to determine a value for alpha in the dynamic pricing calculation.
